@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 📫 How to reach me **xdeveloper0@gmail.com**
+- 📫 How to reach me **uzairdev20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uzair089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzair089" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afaq-zahir-98b8a525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afaq-zahir-98b8a525a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uzair-dev-2162a9263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afaq-zahir-98b8a525a" height="30" width="40" /></a>
 <a href="https://fb.com/uzairdev2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzairdev2?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/m_uzair_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_uzair_04" height="30" width="40" /></a>
 <a href="https://discord.gg/UzairDev2#5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UzairDev2#5490" height="30" width="40" /></a>
