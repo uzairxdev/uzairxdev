@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://miro.medium.com/v2/resize:fit:1280/0*1wVIlv0LnYvlN3_s.jpg)" width="512px"/>
+<img src="https://random-memer.herokuapp.com/](https://miro.medium.com/v2/resize:fit:1280/0*1wVIlv0LnYvlN3_s.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uzairdev2&icon=1&color=0)](https://visitcount.itsvg.in)
