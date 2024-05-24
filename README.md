@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1><br><h3 align="justify">I'm Muhammad Uzair, a skilled Flutter developer passionate about crafting exceptional Android and iOS applications. With expertise in UI design, API integration, and state management, I bring your mobile app ideas to life with seamless performance and user experience. Let's collaborate and turn your vision into reality! 🚀✨</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1><br><h3 align="center">I'm Muhammad Uzair, a skilled Flutter developer passionate about crafting exceptional Android and iOS applications. With expertise in UI design, API integration, and state management, I bring your mobile app ideas to life with seamless performance and user experience. Let's collaborate and turn your vision into reality! 🚀✨</h3>
 
 <a href="https://github.com/uzairxdev/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/uzairxdev/github-profile-trophy">
