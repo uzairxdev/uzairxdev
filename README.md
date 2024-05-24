@@ -1,9 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1><br><h3 align="justify">👋 Greetings! I'm Muhammad Uzair, your go-to Flutter developer, weaving magic into mobile applications. 🚀 With expertise in Flutter, I breathe life into Android and iOS platforms, skillfully crafting intricate UI designs, seamlessly integrating APIs, and mastering state management and app navigation. 🔧 My backend prowess includes Firebase, a cloud wonderland for authentication, databases, and storage. 🌐 Passion fuels my journey to stay ahead in the dynamic mobile development realm, always embracing the latest trends and technologies.
-
-💡 What sets me apart? A dedication to continuous learning and a commitment to turning your ideas into reality. 🤓 Eager to enhance performance and user experiences, I am your dedicated Flutter maestro, ready to exceed your expectations. Let's embark on a journey to create high-quality, business-savvy mobile applications. 🌈 #FlutterDeveloper #MobileAppMaestro
-
-📱 Ready for an adventure in app development? Let's collaborate and make your vision shine! ✨</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1><br><h3 align="justify">I'm Muhammad Uzair, a skilled Flutter developer passionate about crafting exceptional Android and iOS applications. With expertise in UI design, API integration, and state management, I bring your mobile app ideas to life with seamless performance and user experience. Let's collaborate and turn your vision into reality! 🚀✨</h3>
 
 <a href="https://github.com/uzairxdev/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/uzairxdev/github-profile-trophy">
