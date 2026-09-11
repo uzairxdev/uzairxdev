@@ -117,63 +117,65 @@ open_to:
 
 <div align="center">
 
-<!-- ─── BENTO GRID: STATS ─── -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=uzairxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairxdev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairxdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairxdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=pie&bg_color=0D1117" alt="Language Distribution" />
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzairxdev&theme=tokyonight" alt="GitHub Stats" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=uzairxdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzairxdev&theme=tokyonight" alt="Top Languages by Repo" />
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzairxdev&theme=tokyonight" alt="Top Languages by Commit" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzairxdev&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzairxdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzairxdev&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=uzairxdev&theme=tokyonight&hide_border=true&type=weekly" alt="Weekly Stats" />
+
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-## 📈 Contribution Graph
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairxdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 🐍 Contribution Snake
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<!-- 
+  ⚠️ UNCOMMENT THE BLOCK BELOW AFTER setting up the GitHub Action workflow!
+  
+  To activate: 
+  1. Create .github/workflows/snake.yml in your profile repo (see bottom of this file)
+  2. Go to Settings > Actions > General > Workflow permissions → enable "Read and write permissions"
+  3. Run the workflow manually from the Actions tab
+  4. Then uncomment the <picture> block below and delete this comment
+-->
+
+<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzairxdev/uzairxdev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uzairxdev/uzairxdev/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uzairxdev/uzairxdev/output/github-snake.svg" />
   </picture>
-</div>
+-->
 
-> **💡 Setup Required:** To activate the snake animation, add the GitHub Actions workflow below to your profile repo at `.github/workflows/snake.yml`. See the [setup instructions](#-snake-animation-setup) at the bottom of this file.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation preview" width="100%" />
+
+<sub>☝️ Preview — To get YOUR personalized snake, set up the GitHub Actions workflow (see instructions at the bottom of this file)</sub>
+
+</div>
 
 <br/>
 
